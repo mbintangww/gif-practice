@@ -4,3 +4,11 @@
 https://github.com/mbintangww/gif-practice/assets/115893918/f36bf0b8-58d6-435e-9068-7ae13441b8eb
 
 
+## Installation
+To use this project, follow these steps:
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/yourusername/tax-court-scraper.git
+   cd tax-court-scraper
