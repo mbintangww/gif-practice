@@ -24,3 +24,5 @@ To use this project, follow these steps:
    ```bash
    git clone https://github.com/yourusername/tax-court-scraper.git
    cd tax-court-scraper
+
+![3  select](https://github.com/mbintangww/gif-practice/assets/115893918/00924db7-4942-4d62-96b3-d75f19de863d)
